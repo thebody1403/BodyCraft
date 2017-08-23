@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bodycraft",
+  "name": "BodyCraft",
+  "description": "WIP Mod.",
+  "version": "0.1.0",
+  "mcversion": "1.10.2",
+  "url": "https://www.youtube.com/channel/UCDwaHSbqC-I0LxUYyKeBi4A",
+  "updateUrl": "",
+  "authorList": ["TheBodyOnPC/thebody1403"],
+  "credits": "The creators of Java, MCP, Forge, CJMinecraft, and many more that made this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
